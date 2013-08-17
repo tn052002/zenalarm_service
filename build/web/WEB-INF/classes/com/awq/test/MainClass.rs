@@ -1,0 +1,1 @@
+com.awq.main.MainClass
